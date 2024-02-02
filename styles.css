@@ -24,7 +24,10 @@ body{
 
 }
 .pictorial-news-section{
-	
-
+	background-color:lighter;
+	width:200px;
+	text-align:center;
+	padding:20px;
+	border-radius:2px;
 }
 
