@@ -5,6 +5,7 @@ body{
 }
 .holder{
 	display:flex;
+	flex-direction:row;
 	width:100%;
 	justify-content:center;
 	}
@@ -15,20 +16,21 @@ body{
 }
 .latest-news-section{
 	background-color:lightcoral;
-	
+	flex:1;
 	
 }
 .mainArticale{
 	text-align:center;
 	background-color:lightcyan
+	flex:1;
 
 }
 .pictorial-news-section{
 	background-color:lighter;
-	width:200px;
+	
 	text-align:center;
 	padding:20px;
 	border-radius:2px;
-	overflow:hidden;
+	flex:1;
 }
 
