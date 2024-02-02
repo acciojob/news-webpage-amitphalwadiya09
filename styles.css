@@ -16,13 +16,13 @@ body{
 }
 .latest-news-section{
 	background-color:lightcoral;
-	flex:1;
+	
 	
 }
 .mainArticale{
 	text-align:center;
 	background-color:lightcyan
-	flex:1;
+
 
 }
 .pictorial-news-section{
@@ -32,5 +32,8 @@ body{
 	padding:20px;
 	border-radius:2px;
 	flex:1;
+}
+.pictorial-news-section>img{
+	width:200px;
 }
 
